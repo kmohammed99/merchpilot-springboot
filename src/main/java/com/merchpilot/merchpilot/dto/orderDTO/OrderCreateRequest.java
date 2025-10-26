@@ -1,4 +1,4 @@
-package com.merchpilot.merchpilot.dto;
+package com.merchpilot.merchpilot.dto.orderDTO;
 
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.*;

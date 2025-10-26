@@ -1,8 +1,8 @@
 package com.merchpilot.merchpilot.services;
 
-import com.merchpilot.merchpilot.dto.OrderCreateRequest;
-import com.merchpilot.merchpilot.dto.OrderItemCreateRequest;
-import com.merchpilot.merchpilot.dto.OrderResponse;
+import com.merchpilot.merchpilot.dto.orderDTO.OrderCreateRequest;
+import com.merchpilot.merchpilot.dto.orderDTO.OrderItemCreateRequest;
+import com.merchpilot.merchpilot.dto.orderDTO.OrderResponse;
 import com.merchpilot.merchpilot.entity.*;
 import com.merchpilot.merchpilot.entity.enums.OrderStatus;
 import com.merchpilot.merchpilot.entity.enums.PaymentMethod;

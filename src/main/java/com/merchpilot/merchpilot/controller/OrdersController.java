@@ -2,8 +2,8 @@ package com.merchpilot.merchpilot.controller;
 
 import com.merchpilot.merchpilot.common.web.RequestTransaction;
 import com.merchpilot.merchpilot.common.web.ResponseTransaction;
-import com.merchpilot.merchpilot.dto.OrderCreateRequest;
-import com.merchpilot.merchpilot.dto.OrderResponse;
+import com.merchpilot.merchpilot.dto.orderDTO.OrderCreateRequest;
+import com.merchpilot.merchpilot.dto.orderDTO.OrderResponse;
 import com.merchpilot.merchpilot.services.OrdersService;
 import jakarta.validation.Valid;
 import org.springframework.http.ResponseEntity;

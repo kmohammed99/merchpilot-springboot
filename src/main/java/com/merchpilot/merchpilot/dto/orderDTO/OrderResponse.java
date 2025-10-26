@@ -1,5 +1,5 @@
 // dto/OrderResponse.java
-package com.merchpilot.merchpilot.dto;
+package com.merchpilot.merchpilot.dto.orderDTO;
 
 import java.math.BigDecimal;
 import java.time.OffsetDateTime;
